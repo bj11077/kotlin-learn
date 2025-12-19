@@ -1,6 +1,6 @@
 package com.section04
 
-import com.section04.section04.Derived
+import com.section04.Derived
 
 // 하위에서 오버라이드가능한 프로퍼티를 생성자나 init 블럭에 만들지말자 (open 피하기)
 /*
